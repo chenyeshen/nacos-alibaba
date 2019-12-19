@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-alibaba" />
+        <module name="nacos-config" />
+        <module name="nacos-consumer" />
+        <module name="nacos-gateway" />
+        <module name="nacos-provider" />
+        <module name="springcloudalibaba-sentinel" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

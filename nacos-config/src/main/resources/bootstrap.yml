@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: NacosConfig
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.01:8848
+        file-extension: yml
+server:
+  port: 8007
+
+
+
